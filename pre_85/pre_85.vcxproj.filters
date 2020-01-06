@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1(Two Sum).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7(整数反转).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9(回文数).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13(罗马数字转整数).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14(最长公共前缀).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20(有效的括号).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21(合并两个有序链表).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26(原地删除排序数组中的重复项).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27(移除元素).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28(实现strStr()).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35(搜索插入位置).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38(报数).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53(最大子序和).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58(最后一个单词的长度).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66(加一).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="67(二进制求和).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="69(x的平方根).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="70(爬楼梯).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="83(删除排序链表中的重复元素).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88(合并两个有序数组).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="100(相同的树).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="101(对称二叉树).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="104(二叉树的最大深度).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="107(二叉树的层次遍历2).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="108(将有序数组转换为二叉搜索树).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="110(平衡二叉树).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="111(二叉树的最小深度).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="112(路径总和).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="118(杨辉三角).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="119(杨辉三角2).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="121(买卖股票).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="122(买卖股票的最佳时期).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="125(验证回文串).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="136(只出现一次的数字).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="141(环形链表).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="155(最小栈).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="160(相交链表).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="167(两数之和2-输入有序数组).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="168(Excel表列名称).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="169(多数元素).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="171(Excel表列序号).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="172(阶乘后的零).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="189(旋转数组).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="190(颠倒二进制位).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="191(位1的个数).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="198(打家劫舍).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="202(快乐数).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="203(移除链表元素).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="204(计数质数).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="205(同构字符串).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="206(反转链表).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="217(存在重复元素).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="219(存在重复元素2).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="225(用队列实现栈).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="226(翻转二叉树).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="231(2的幂).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="232(用栈实现队列).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="234(回文链表).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="237(删除链表中的节点).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="257(二叉树的所有路径).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="258(各位相加).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="263(丑数).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="268(缺失数字).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="283(移动零).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="290(单词规律).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="292(Nim游戏).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="299(猜数字游戏).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="326(3的幂).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="342(4的幂).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="349(两个数组的交集).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="350(两个数的交集2).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="367(有效的完全平方数).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="392(判断子序列).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="559(N叉树的最大深度).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="690(员工的重要性).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="746(使用最小花费爬楼梯).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="876(链表的中间结点).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="976(三角形的最大周长).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1025(除数博弈).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1290(二进制链表转整数).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bi_search.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sort_set.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
